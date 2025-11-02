@@ -5,6 +5,16 @@ Unfortunately, this **ONLY** works on Windows.
 
 Before continuing, ***HUGE THANKS*** to everyone who worked on Ship of Harkinian and its *AMAZING* mods!
 
+# Credits
+
+**Credits to**:
+
+**GhostlyDark** for making OOT Reloaded
+
+**Robbyrandom** for making Transparent/Glass hud
+
+**Skilarbabcock** for making TP Hero of Time
+
 # Requirements
 Before getting started, make sure you have:
 

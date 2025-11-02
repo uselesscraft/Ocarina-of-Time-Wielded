@@ -1,5 +1,5 @@
 # Project Ocarina of Time Wielded
-Project where I aim to make Ocarina of Time feel more *modern* with visual upgrades!
+A project where I aim to make Ocarina of Time feel more *modern* with visual upgrades!
 
 Unfortunately, this **ONLY** works on Windows.
 
